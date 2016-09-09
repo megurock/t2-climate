@@ -1,0 +1,22 @@
+body {
+  padding: 20px;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.chart + .chart {
+  margin-top: 80px;
+}
+
+.chart__caption {
+  text-align: center;
+  color: #666;
+}
+
+.chart__body + .chart__caption {
+  margin-top: 20px;
+}
+
+.chart__caption + .chart__body {
+  margin-top: 10px;
+}
