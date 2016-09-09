@@ -24,5 +24,4 @@
   $ t2 run climate.js
   ```
 
-
-
+![](https://github.com/megurock/t2-climate/climate.gif)
